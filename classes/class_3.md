@@ -6,7 +6,7 @@ Class: Customers
     BoosterSeat (integer)  
     TableType (string)  
 
-  Methods:
+  Methods:  
     OrderFood ()  
     EatFood()  
     PayForFood()  
