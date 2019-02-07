@@ -7,9 +7,8 @@ Class: Customers
     TableType (string)  
 
   Methods:
-
     OrderFood ()  
     EatFood()  
     PayForFood()  
     LeaveTip()  
-    LeaveRestaurant()   
+    LeaveRestaurant()  
