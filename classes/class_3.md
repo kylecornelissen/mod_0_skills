@@ -1,15 +1,15 @@
-Class: Customers
-  Attributes:
-    PartyName (string)
-    PartyNumber (integer)
-    Reservation (datetime)
-    BoosterSeat (integer)
-    TableType (string)
+Class: Customers  
+  Attributes:  
+    PartyName (string)  
+    PartyNumber (integer)  
+    Reservation (datetime)  
+    BoosterSeat (integer)  
+    TableType (string)  
 
   Methods:
 
-    OrderFood ()
-    EatFood()
-    PayForFood()
-    LeaveTip()
-    LeaveRestaurant()
+    OrderFood ()  
+    EatFood()  
+    PayForFood()  
+    LeaveTip()  
+    LeaveRestaurant()   
